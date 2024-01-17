@@ -1430,3 +1430,247 @@ git push origin master
 git brach -b
 #1705326855
 git add.
+#1705326870
+git add .
+#1705326899
+git commit -m "new changes"
+#1705326921
+git push origin hello
+#1705326951
+git push origin master
+#1705327559
+git config --global --unset http.proxy
+#1705327589
+config --global --unset https.proxy
+#1705327803
+git push origin master
+#1705328016
+git config --global --unset user.password
+#1705328073
+git config --global -add user.password lavanyavenu@30
+#1705328118
+git config --global --add user.password lavanyavenu@30
+#1705328223
+git push
+#1705328235
+git pull
+#1705328251
+git remote -v
+#1705328258
+git push
+#1705328280
+git push origin master
+#1705328507
+git push
+#1705328525
+git push origin master
+#1705462399
+git origin push master
+#1705462469
+git origim push master
+#1705462480
+git origin push master
+#1705462521
+git commit -m "selected"
+#1705462541
+git origin push master
+#1705462549
+ls
+#1705462561
+rm -rf project
+#1705462566
+ls .git
+#1705462586
+rm -rf index
+#1705462588
+ls
+#1705462595
+ls .git
+#1705462607
+clear\
+#1705462627
+clear
+#1705462780
+ git
+#1705462798
+clear
+#1705462833
+ls
+#1705462863
+mkdir project
+#1705462866
+ls
+#1705462877
+cd project
+#1705462899
+desktop ls
+#1705462915
+clear
+#1705462921
+cd project
+#1705462947
+ls
+#1705462953
+cd project
+#1705462969
+ls
+#1705462976
+ls -a
+#1705463001
+ls .git
+#1705463014
+ls. git
+#1705463024
+ls .git
+#1705463037
+ls
+#1705463044
+cd
+#1705463047
+ls
+#1705463058
+rm -rf project
+#1705463060
+ls
+#1705463080
+clear
+#1705463118
+ls
+#1705463174
+mkdir project
+#1705463176
+ls
+#1705463199
+cd project
+#1705463206
+ls
+#1705463259
+git init
+#1705463277
+ls
+#1705463282
+ls -a
+#1705463304
+ls .git
+#1705463354
+touch names.txt
+#1705463394
+git status
+#1705463758
+git add .
+#1705463794
+git status
+#1705463866
+git commit -m "names.txt file added"
+#1705463896
+git status
+#1705463949
+vim names.txt
+#1705464005
+cat names.txt
+#1705464027
+git status
+#1705464043
+git add .
+#1705464049
+git status
+#1705464092
+git restore --staged names.txt
+#1705464105
+git status
+#1705464123
+git add names.txt
+#1705464136
+git status
+#1705464170
+git commit -m "names.txt files modified"
+#1705464212
+git log
+#1705464273
+rm -rf names.txt
+#1705464300
+git status
+#1705464319
+git add .
+#1705464376
+git commit -m "names.txt file deleted"
+#1705464381
+git log
+#1705464697
+git reset 9905ba521b62090539b1c583c8393e60659867cc
+#1705464753
+git log
+#1705464796
+git status
+#1705464916
+git add .
+#1705464923
+git status
+#1705464968
+touch surnames.txt
+#1705464974
+git add .
+#1705464986
+git status
+#1705465020
+vim surnames.txt
+#1705465075
+touch houses.txt
+#1705465083
+git add .
+#1705465091
+git status
+#1705465141
+git stash
+#1705465154
+git status
+#1705465164
+git log
+#1705465186
+cat names.txt
+#1705465219
+git stash pop
+#1705465240
+git add .
+#1705465245
+git stash
+#1705465307
+git stash clear
+#1705465988
+git remote add origin https://github.com/lavanyavenu23/community-classroom-Git.git
+#1705466038
+git remote -v
+#1705466103
+git push origin master
+#1705472106
+git clone https://github.com/termux/termux-packages
+#1705473723
+git push -u -f origin master
+#1705473757
+git push origin master
+#1705474224
+clear
+#1705474237
+git push origin master
+#1705474312
+clear
+#1705474397
+git push
+#1705474435
+--set -upstream origin master
+#1705474474
+git push -u 
+#1705474506
+git help config
+#1705474564
+git push origin master
+#1705475057
+ clear
+#1705475350
+git remote set -url origin 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
+#1705475372
+git push origin master
+#1705476201
+git push
+#1705476208
+clear
